@@ -1,9 +1,11 @@
 <div align="center">
 
-# 💫 Utkarsh Mohit
+<img src="./assets/banner.jpg" alt="Utkarsh Mohit Banner" width="100%" style="border-radius: 10px;" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Utkarsh+Mohit+%F0%9F%91%8B;Computer+Science+%40+SRMIST+(CGPA+8.97);AWS+Certified+Developer+-+Associate+%E2%98%81%EF%B8%8F;AI%2FML+%26+Full-Stack+Software+Engineer;IEEE+ETCOM+Author+%7C+Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Utkarsh+Mohit+%F0%9F%91%8B;Computer+Science+%40+SRMIST+(CGPA+8.97);AWS+Certified+Developer+-+Associate+%E2%98%81%EF%B8%8F;AI%2FML+%26+Full-Stack+Software+Engineer;IEEE+ETCOM+Author+%7C+Open+Source+Builder" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -12,24 +14,28 @@
   <a href="https://github.com/utkarshmohit358"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+<blockquote style="font-style: italic; color: #a9b1d6;">
+  "Architecting high-throughput distributed systems and deep vision models with precision and scale."
+</blockquote>
+
 ---
 
 </div>
 
-## 👨‍💻 About Me
+## 🌌 Overview
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering (CSE-IT) at **SRM Institute of Science and Technology, Kattankulathur** (2023–2027) | **CGPA: 8.97**
 - ☁️ **Cloud & Credentials:** **AWS Certified Developer – Associate** & **AWS AI Practitioner**
 - 🔬 **Research & Publications:** Author of *"Enhanced Vehicle Damage Evaluation Using YOLOv8 and XGBoost in a PySpark Environment"* presented at **IEEE ETCOM 2025**
-- 🚀 **Core Interests:** Scalable Web Systems, Distributed Computing, Computer Vision & Deep Learning, Database Engineering
+- 🚀 **Core Focus:** Distributed Cloud Architectures, Deep Learning Vision Pipelines, Enterprise Backend Systems
 - 💬 **Ask me about:** Java, TypeScript, PyTorch, Big Data pipelines (Spark/PySpark), and Cloud Architectures
 - 📫 **Reach me at:** [utkmohit@gmail.com](mailto:utkmohit@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+## 🛠️ Technical Arsenal
 
-### 💻 Programming Languages & Databases
+### 💻 Core Languages & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -39,7 +45,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-### 🌐 Frontend & Full-Stack Development
+### 🌐 Modern Web & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
@@ -47,7 +53,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🤖 Machine Learning, Deep Learning & Big Data
+### 🤖 AI, Deep Learning & Big Data
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -68,13 +74,13 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Engineering & Research
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🌿 **GreenCampus** | Sustainable Computing for Colleges (UN SDG 12 & 13) | `TypeScript` `React` `CSS` | [View Code](https://github.com/utkarshmohit358/green-campus) |
-| 🚌 **MetroMile** | Enterprise Bus Reservation & Fleet Operations System with embedded REST engine | `Java 17` `Swing` `MySQL 8` | [View Code](https://github.com/utkarshmohit358/metromile) |
-| 🍔 **Foodify** | Real-time interactive food ordering & delivery platform | `TypeScript` `HTML5` `CSS3` | [View Code](https://github.com/utkarshmohit358/foodify) |
+| 🌿 **GreenCampus** | Sustainable Computing for Colleges (UN SDG 12 & 13) | `TypeScript` `React` `CSS` | [Explore Code](https://github.com/utkarshmohit358/green-campus) |
+| 🚌 **MetroMile** | Enterprise Bus Reservation & Fleet Operations System with embedded REST engine | `Java 17` `Swing` `MySQL 8` | [Explore Code](https://github.com/utkarshmohit358/metromile) |
+| 🍔 **Foodify** | Real-time interactive food ordering & delivery platform | `TypeScript` `HTML5` `CSS3` | [Explore Code](https://github.com/utkarshmohit358/foodify) |
 | 🚗 **Car Damage AI** | Deep learning vehicle damage detection & repair cost estimation (91.4% precision) | `PyTorch` `YOLOv8` `XGBoost` `PySpark` | *Published IEEE 2025* |
 | 🧠 **Hybrid U-Net & MedSAM** | Automated prompt-driven brain tumour segmentation pipeline | `PyTorch` `MedSAM` `CNN` `OpenCV` | *Research Project* |
 
@@ -88,7 +94,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📈 Activity & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarshmohit358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Utkarsh's GitHub Stats" width="48%" />
@@ -102,5 +108,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with precision & passion by <a href="https://github.com/utkarshmohit358">Utkarsh Mohit</a></sub>
+  <sub>Designed with precision & aesthetic passion by <a href="https://github.com/utkarshmohit358">Utkarsh Mohit</a></sub>
 </div>
