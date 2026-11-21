@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Utkarsh Mohit Banner" width="100%" style="border-radius: 12px;" />
+<img src="./assets/banner.jpg" alt="Utkarsh Mohit Banner" width="50%" style="border-radius: 10px;" />
 
 <br/>
 
